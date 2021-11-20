@@ -1,5 +1,5 @@
 # FineTune
-FineTune is an Android application built through Ionic React to give Spotify users (Premium or free) the ability to discover new music recommendations tailored to their music taste.
+FineTune is an Android application built developed with Ionic React to give Spotify users (Premium or free) the ability to discover new music recommendations tailored to their music taste.
 
 ## Installation
 
