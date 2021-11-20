@@ -5,7 +5,7 @@ FineTune is an Android application built through Ionic React to give Spotify use
 
 To use this project please follow the following steps:
   1. ```[npm] (i)```
-  2. In src/Services/firebase.js you will need to add your firebaseConfig
+  2. In ```src/Services/firebase.js``` you will need to add your firebaseConfig
 
 ## Backend Authentication
 To authenticate your users you will need to use this
